@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  margin: 40px;
+  color: #000;
+}
+
+.resume {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  border: 2px solid #000;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 2em;
+}
+
+.subtitle {
+  color: #2e8b57;
+  margin-top: 0;
+}
+
+h3 {
+  color: #2e8b57;
+  margin-top: 30px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.highlight {
+  color: #1e90ff;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+ul {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
